@@ -7,7 +7,7 @@
 }
 
 .container {
-    background: url(bg.jpg) repeat;
+    background: url(img/bg.jpg) repeat;
     background-attachment:fixed;
     background-size: 100%;
     width: 100%;
