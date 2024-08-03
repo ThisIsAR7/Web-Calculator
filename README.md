@@ -28,11 +28,11 @@ To use this calculator locally, follow these steps:
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/ItIsAR7/Web-Based-Calculator.git
+    git clone https://github.com/ItIsAR7/Web-Calculator.git
     ```
 2. Navigate to the project directory:
     ```sh
-    cd c
+    cd Web-Calculator
     ```
 
 ## Usage
