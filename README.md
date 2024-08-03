@@ -32,7 +32,7 @@ To use this calculator locally, follow these steps:
     ```
 2. Navigate to the project directory:
     ```sh
-    cd Web-Calculator
+    cd Web-Calculator-main
     ```
 
 ## Usage
