@@ -11,7 +11,7 @@ This is a simple calculator web application designed and developed by [AR7](http
 
 ## Demo
 
-You can see the live demo of the calculator [here](https://webcalculator-ar7.netlify.app/)
+You can see the live demo of the calculator [here](https://webcalculator-ar7.netlify.app/).
 
 ## Features
 
