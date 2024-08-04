@@ -8,8 +8,6 @@ This is a simple calculator web application designed and developed by [AR7](http
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
-- [License](#license)
-- [Credits](#credits)
 
 ## Demo
 
@@ -28,7 +26,7 @@ To use this calculator locally, follow these steps:
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/ItIsAR7/Web-Calculator.git
+    git clone https://github.com/ThisIsAR7/Web-Calculator.git
     ```
 2. Navigate to the project directory:
     ```sh
