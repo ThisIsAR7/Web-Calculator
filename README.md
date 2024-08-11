@@ -11,7 +11,7 @@ This is a simple calculator web application designed and developed by [AR7](http
 
 ## Demo
 
-You can see the live demo of the calculator [here](https://webcalculator-ar7.netlify.app/).
+To see a live demo of the hoverboard, open the `index.html` file in a web browser. You will see a grid of squares that change color and glow when you hover over them.
 
 ## Features
 
