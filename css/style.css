@@ -6,16 +6,7 @@
     background-size: 100%;
 }
 
-.container {
-    background: url(img/bg.jpg) repeat;
-    background-attachment:fixed;
-    background-size: 100%;
-    width: 100%;
-    height: 100vh;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}
+
 
 .calculator {
     background: #333;
