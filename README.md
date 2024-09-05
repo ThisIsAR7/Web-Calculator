@@ -1,6 +1,6 @@
 # Simple Calculator
 
-This is a simple calculator web application designed and developed by [AR7](https://arvinrezaei.com/). It includes basic arithmetic operations and a user-friendly interface.
+This is a simple calculator web application designed and developed by [AR7](https://arvinrezaei.com/). It includes  arithmetic operations and a user-friendly interface.
 
 ## Table of Contents
 
