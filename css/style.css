@@ -44,7 +44,7 @@ form .display {
 }
 
 form .display input {
-    text-align: ;
+    text-align: right;
     flex: 1;
     font-size: 45px;
     box-shadow: 0 0 10px rgba(255, 255, 255, 0.1),
