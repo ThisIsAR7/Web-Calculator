@@ -20,7 +20,7 @@
 .calculator {
     background: #333;
     padding: 20px;
-    border-radius: 1.;
+    border-radius: 1.25rem;
 }
 
 .calculator form input {
